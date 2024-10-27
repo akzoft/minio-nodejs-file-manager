@@ -1,0 +1,22 @@
+{
+    "compilerOptions": {
+      "target": "ES2016",
+      "module": "commonjs",
+      "resolveJsonModule": true,
+      "esModuleInterop": true,
+      "outDir": "dist",
+      "rootDir": "source",
+      "strict": true,
+      "moduleResolution": "node",
+      "sourceMap": true,
+      "skipLibCheck": true,
+      "forceConsistentCasingInFileNames": true,
+      "incremental": true,
+      "noImplicitOverride": true,
+      "removeComments": true,
+    },
+    "include": [  "source", "test.ts"  ],
+    "exclude": [ "node_modules" ],
+  
+  }
+  
