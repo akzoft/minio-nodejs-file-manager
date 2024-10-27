@@ -123,3 +123,5 @@ Si l'option de compression est activée, elle utilise la méthode compressor.Com
 Auteur: Akougnon Pierre DOLO
 
 Ce `README.md` fournit une documentation complète pour le package, incluant les fonctionnalités, l'utilisation et un exemple de code d’implémentation.
+
+ok
